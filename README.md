@@ -1,6 +1,6 @@
-# house-price-prediction-basic
-Beginner project using Linear Regression (Single Variable)
 # House Price Prediction (Beginner)
+Linear Regression (Single Variable)
+
 
 This is a beginner-level project to learn Linear Regression
 using Python and scikit-learn.
